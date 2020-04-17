@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>automation untuk pembayaran donasi</description>
+   <name>TC_Automation_Kitabisa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76c915ef-b28d-46b7-bdce-b24c1e897156</testCaseGuid>
+</TestCaseEntity>
