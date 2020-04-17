@@ -27,8 +27,8 @@ try {
 	WebUI.click(findTestObject('e2e/btn_donasi_sekarang'))
 	WebUI.click(findTestObject('e2e/menu_10k'))
 	WebUI.click(findTestObject('e2e/menu_transfer_bca'))
-	WebUI.setText(findTestObject('e2e/input_nama'),'rahman')
-	WebUI.setText(findTestObject('e2e/input_nophone'),'087788114220')
+	WebUI.setText(findTestObject('e2e/input_nama'),GlobalVariable.nama)
+	WebUI.setText(findTestObject('e2e/input_nophone'),GlobalVariable.phone)
 	WebUI.click(findTestObject('e2e/btn_lanjutkan_pembayaran'))
 	def popup = findTestObject('e2e/img_popup')
 	if(popup == true){

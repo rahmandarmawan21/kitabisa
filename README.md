@@ -21,10 +21,9 @@ you can get on store katalon website
 ```
 (https://www.katalon.com/download/)
 until finished
-```
 
 ## Running the tests
-```
+
 - open katalon
 - open project if you have done to clone
 - you can running automation on test case or test suite

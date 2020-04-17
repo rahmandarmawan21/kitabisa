@@ -6,6 +6,7 @@
    <UUID>caa8b070-8778-42a1-9d3f-ef234f0bb58c</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Automation\kitabisa\kitabisa_automation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

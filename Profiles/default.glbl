@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rahman'</initValue>
+      <name>nama</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'087788112020'</initValue>
+      <name>phone</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
